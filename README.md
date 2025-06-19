@@ -16,5 +16,7 @@ Figure (a) shows the original image, figure (b) shows the watermarked image, whi
 
 It is recommended to train the model for a minimum of 3 epochs for the best results.
 The trained weights can be found here:
+
 [Encoder](https://drive.google.com/file/d/1xPaG9WmsA6QGrwRd9eeOxbG1M95m0sgC/view?usp=drive_link)
+
 [Decoder](https://drive.google.com/file/d/1UDQ50icwkhPI6pMSZg8sQk_wV6o_WkYS/view?usp=drive_link)
